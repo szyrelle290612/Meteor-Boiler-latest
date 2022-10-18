@@ -8,7 +8,7 @@
     "visualize": "meteor --production --extra-packages bundle-visualizer"
   },
   "dependencies": {
-    "@babel/runtime": "^7.19.0",
+    "@babel/runtime": "^7.19.4",
     "awesome-phonenumber": "^2.65.0",
     "body-parser": "^1.19.1",
     "colors": "^1.4.0",
